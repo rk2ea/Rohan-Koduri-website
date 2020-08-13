@@ -1,7 +1,8 @@
 import React from 'react';
-
+import Image from 'react-bootstrap/Image'
 import './App.css';
-
+import './headshot.jpg'
+import { Container, Row, Col } from 'reactstrap';
 function App() {
   return (
     
@@ -13,13 +14,14 @@ function App() {
         </div>
         <div style={{justifyContent: "flex-end"}}>
         <a href="#">Contact Me</a>
+        
           <a href="#">About Me</a>
           <a href="#">My Experience</a>
           <a  href="#">Home</a>
         </div>
       </div>
       <div className="App-body">
-        
+      <Image src="./headshot.jpg" roundedCircle />
 
       </div>
     </div>
