@@ -2,8 +2,8 @@ import React from 'react';
 
 function About() {
     return(
-        <div>
-            <h1>About Me Page</h1>
+        <div style={{color:"black"}}>
+            <p>About Me Page</p>
         </div>
     );   
 }

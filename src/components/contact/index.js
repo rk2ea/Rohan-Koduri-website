@@ -2,8 +2,8 @@ import React from 'react';
 
 function Contact() {
     return(
-        <div>
-            <h1>Contact Me Page</h1>
+        <div style={{color:"black"}}>
+            <p>Contact Me Page</p>
         </div>
     );   
     }

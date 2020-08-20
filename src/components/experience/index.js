@@ -2,8 +2,8 @@ import React from 'react';
 
 function Experience() {
     return(
-        <div>
-            <h1>My Experience Page</h1>
+        <div style={{color:"black"}}>
+            <p>My Experience Page</p>
         </div>
     );   
     }
