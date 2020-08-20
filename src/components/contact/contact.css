@@ -1,0 +1,12 @@
+.contact-info {
+    
+    border: 1px solid;
+   box-shadow: 5px 9px #888888;
+    background-color: #d5e3e3;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    height: 480px;
+    width: 770px;
+    padding: 18px;
+    color: black;
+  }
