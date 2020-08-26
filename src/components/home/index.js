@@ -12,6 +12,7 @@ function Home() {
         <div className="Home-body">
         
            <div><ScrollArrow/> </div>   
+          <h1 style={{color:"black"}}>Welcome to Rohan Koduri's website</h1>
         <div className = "About-Me">
           <img className="photo" src={headshot} alt="" />
             <p style={{ marginRight: "25px", fontFamily: "Impact"}}>Programmer By Trade. Traveller by Heart.</p>

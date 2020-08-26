@@ -12,10 +12,11 @@
   }
   .About-Me {
     border: 1px solid;
+    border-radius: 25px;
   padding: 10px;
-  box-shadow: 3px 7px #888888;
+  box-shadow: 5px 10px #888888;
     background-color: #d5e3e3;
-    margin-top: 70px;
+    margin-top: 20px;
     height: 300px;
     width: 770px;
     color: black;
@@ -24,8 +25,9 @@
   }
   .My-Experience {
     border: 1px solid;
+    border-radius: 25px;
   padding: 10px;
-  box-shadow: 3px 7px #888888;
+  box-shadow: 5px 10px #888888;
     background-color: #d5e3e3;
     margin-top: 70px;
     height: 300px;
@@ -36,8 +38,9 @@
   
   .Contact-me {
     border: 1px solid;
+    border-radius: 25px;
   padding: 10px;
-  box-shadow: 3px 7px #888888;
+  box-shadow: 5px 10px #888888;
     background-color: #d5e3e3;
     margin-top: 70px;
     margin-bottom: 70px;
