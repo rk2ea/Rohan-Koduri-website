@@ -3,6 +3,7 @@ import './home.css';
 import headshot from '../../headshot.jpg'
 import worker from '../../cartoon_worker.jpg'
 import contact_pic from '../../contact.jpg'
+import volcano from '../../volcano.jpg'
 import ScrollArrow from '../../components/ScrollArrow'
 
   
@@ -14,7 +15,7 @@ function Home() {
            <div><ScrollArrow/> </div>   
           <h1 style={{color:"black"}}>Welcome to Rohan Koduri's website</h1>
         <div className = "About-Me">
-          <img className="photo" src={headshot} alt="" />
+          <img className="photo" src={volcano} alt="" />
             <p style={{ marginRight: "25px", fontFamily: "Impact"}}>Programmer By Trade. Traveller by Heart.</p>
             <div style={{ fontSize:"14px", marginRight: "12px", marginLeft: "12px"}}> 
               I am Rohan Koduri, a 2019 graduate from the School of Engineering and Applied Science within the University of Virginia with a B.S. in Computer Science and Minor in Business. Ever since, I have been working as a Software Developer. 
@@ -34,7 +35,7 @@ function Home() {
         </div>
 
         <div className = "Contact-me">
-        <img className="photo2" src={contact_pic} alt="" />
+        <img className="photo" src={headshot} alt="" />
         <p style={{ marginLeft: "25px", fontFamily: "Impact"}}>Want to Know More?</p>
             <div style={{ fontSize:"14px", marginRight: "12px", marginLeft: "12px", marginTop:"55px"}}> 
               Let's chat. Click below to find out how to contact me.  

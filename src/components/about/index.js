@@ -7,8 +7,8 @@ import './about.css'
 function About() {
     return(
         <div className="About-Home">  
-        <div style={{marginLeft:"350px"}}><ScrollArrow/> </div> 
-        <div style={{marginBottom:"70px", marginTop: "70px"}} className="About-Me">
+        <div style={{marginLeft:"100px"}}><ScrollArrow/> </div> 
+        <div style={{marginBottom:"70px", marginTop: "70px"}} className="About-Me2">
             <h1>Some Quick Facts</h1>
             <li>I was raised in Suffolk, VA and went to Nansemond-Suffolk Academy</li>
             <li>I however, through my family, am a fan of Pittsburgh sports teams and Arsenal (COYG)</li>

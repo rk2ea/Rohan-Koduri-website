@@ -13,6 +13,7 @@
   .About-Me {
     border: 1px solid;
     border-radius: 25px;
+    font-size: 24px;
   padding: 10px;
   box-shadow: 5px 10px #888888;
     background-color: #d5e3e3;
@@ -26,6 +27,7 @@
   .My-Experience {
     border: 1px solid;
     border-radius: 25px;
+    font-size: 24px;
   padding: 10px;
   box-shadow: 5px 10px #888888;
     background-color: #d5e3e3;
@@ -40,11 +42,12 @@
     border: 1px solid;
     border-radius: 25px;
   padding: 10px;
+  font-size: 24px;
   box-shadow: 5px 10px #888888;
     background-color: #d5e3e3;
     margin-top: 70px;
     margin-bottom: 70px;
-    height: 330px;
+    height: 300px;
     width: 770px;
     color: black;
   }
@@ -61,6 +64,7 @@
     margin: 4px 2px;
     cursor: pointer;
     font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 20px;
   }
   
   
@@ -83,14 +87,7 @@
       margin-top: 25px;
       padding-left: 10px;
     }
-    .photo2 {
-      height: 280px;
-      width: 250px;
-      float: left;
-      margin-left: 25px;
-      margin-right: 10px;
-      margin-top: 20px;
-    }
+
   .App-link {
     color: #61dafb;
   }

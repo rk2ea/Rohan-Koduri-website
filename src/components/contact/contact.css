@@ -1,8 +1,9 @@
 .contact-info {
-    
+    font-size: 24px;
     border: 1px solid;
    box-shadow: 5px 9px #888888;
     background-color: #d5e3e3;
+    border-radius: 25px;
     margin-top: 50px;
     margin-bottom: 70px;
     height: 480px;
