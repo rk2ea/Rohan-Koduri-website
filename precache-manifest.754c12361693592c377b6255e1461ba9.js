@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7a75ed50dda0747c3037921129ac6bb",
+    "revision": "d05a1d0400d64f70a1d9a93d9d15a133",
     "url": "/Rohan-Koduri-website/index.html"
   },
   {
-    "revision": "36c4aed04bc448406d5f",
+    "revision": "8382dcb8931be4bf5299",
     "url": "/Rohan-Koduri-website/static/css/main.a247e9c8.chunk.css"
   },
   {
-    "revision": "ebc018b76e7852a18fa1",
-    "url": "/Rohan-Koduri-website/static/js/2.1b465a12.chunk.js"
+    "revision": "4eedad967fe52c3a3927",
+    "url": "/Rohan-Koduri-website/static/js/2.6e657b16.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Rohan-Koduri-website/static/js/2.1b465a12.chunk.js.LICENSE.txt"
+    "url": "/Rohan-Koduri-website/static/js/2.6e657b16.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "36c4aed04bc448406d5f",
-    "url": "/Rohan-Koduri-website/static/js/main.3dc39f7c.chunk.js"
+    "revision": "8382dcb8931be4bf5299",
+    "url": "/Rohan-Koduri-website/static/js/main.a0d55b16.chunk.js"
   },
   {
     "revision": "ea06b1acf94410cbcf12",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "086726aaa4e295bd0cc9bee6810b762b",
     "url": "/Rohan-Koduri-website/static/media/cartoon_worker.086726aa.jpg"
-  },
-  {
-    "revision": "51b9af5ffd4066907ad6c3ed406cdfd4",
-    "url": "/Rohan-Koduri-website/static/media/contact.51b9af5f.jpg"
   },
   {
     "revision": "8bb870a3b4806b00c7c3b5cdd75989db",
