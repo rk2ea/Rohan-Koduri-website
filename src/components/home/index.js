@@ -29,7 +29,7 @@ function Home() {
         <p style={{ marginLeft: "25px", fontFamily: "Impact"}}>What Have I Been Up To?</p>
             <div style={{ fontSize:"14px", marginRight: "12px", marginLeft: "12px"}}> 
               Both inside and now outside the classroom, I've had the opportunity to work with so many interesting technologies. In the past year alone, I've learned so much
-              through my involvement in the <strong>Patent Pending</strong> Secure Data Fabric®, volunteering as a developer for <a rel="noopener noreferrer" target='_blank' href='https://excesstoneeds.org/'>Excess to Needs</a>, and especially coaching youth soccer.
+              through my involvement in the <strong>Patent Pending</strong> <a href="https://uspto.report/TM/90038838" target="_blank">Secure Data Fabric®</a>, volunteering as a developer for <a rel="noopener noreferrer" target='_blank' href='https://excesstoneeds.org/'>Excess to Needs</a>, and especially coaching youth soccer.
             </div>
             <a style={{marginTop:"35px"}} href="/experience" class="button">READ MORE ></a> 
         </div>

@@ -19,8 +19,22 @@
   padding-bottom: 20px;
   box-shadow: 5px 10px #888888;
     background-color: #d5e3e3;
-    height: 250px;
-    width: 790px;
+    height: 550px;
+    width: 810px;
+    color: black;
+    margin-bottom: 65px;
+    text-align: left;
+    font-size: small;
+  }
+  .work-experience-cards-2 {
+    border: 1px solid;
+    border-radius: 25px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  box-shadow: 5px 10px #888888;
+    background-color: #d5e3e3;
+    height: 350px;
+    width: 810px;
     color: black;
     margin-bottom: 65px;
     text-align: left;
