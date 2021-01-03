@@ -12,7 +12,7 @@ function Experience() {
                 <br></br>
                 <li><b>Other Skills:</b> AWS services (EC2, S3, Lambda, SQS, QLDB, DynamoDB, ElasticSearch, Fargate, API Gateway), UNIX environment, Agile Workflow, JIRA, Git, Microsoft Office, Denodo Data Virtualization Tool</li>
                 <br></br>
-                <li>Check out my github for the codebase to this website and more: <a target="_blank" href="https://www.github.com/rk2ea">github.com/rk2ea</a> </li>
+                <li>Check out my github for the codebase to this website and more: <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/rk2ea">github.com/rk2ea</a> </li>
             </div>
             <div  className="experience-cards">
                 <h1>Education:</h1>
