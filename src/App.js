@@ -22,11 +22,12 @@ function App() {
         </div>
         
         <div style={{justifyContent: "flex-end"}}>
-        <a className="a-header" href='/contact'>Contact Me</a>
-        
+
+          <a className="a-header" href="/contact">Contact Me</a>
           <a className="a-header" href="/about">About Me</a>
           <a className="a-header" href="/experience">My Experience</a>
           <a className="a-header" href="/">Home</a>
+
         </div>
       </div>
       <div className='App-body'> 
@@ -53,3 +54,12 @@ function App() {
 }
 
 export default App;
+
+/*
+          <Router>
+          <Link className="a-header" to='/contact'>Contact Me</Link>
+          <Link className="a-header" to="/about">About Me</Link>
+          <Link className="a-header" to="/experience">My Experience</Link>
+          <Link className="a-header" to="/">Home</Link>
+          </Router>
+          */
