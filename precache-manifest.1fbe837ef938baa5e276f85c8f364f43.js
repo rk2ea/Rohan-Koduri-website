@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89cd0229b22adcd019ffb8a2965c91e0",
+    "revision": "389dbfe8b8753c1a3d4dd4a236aecaed",
     "url": "/Rohan-Koduri-website/index.html"
   },
   {
-    "revision": "880bf20caaa6cbd56876",
+    "revision": "6c4d54b9e491ff93f7c9",
     "url": "/Rohan-Koduri-website/static/css/main.a247e9c8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rohan-Koduri-website/static/js/2.6e657b16.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "880bf20caaa6cbd56876",
-    "url": "/Rohan-Koduri-website/static/js/main.15654cf3.chunk.js"
+    "revision": "6c4d54b9e491ff93f7c9",
+    "url": "/Rohan-Koduri-website/static/js/main.85efaebe.chunk.js"
   },
   {
     "revision": "ea06b1acf94410cbcf12",
