@@ -23,10 +23,10 @@ function App() {
         
         <div style={{justifyContent: "flex-end"}}>
 
-          <a className="a-header" href="/contact">Contact Me</a>
-          <a className="a-header" href="/about">About Me</a>
-          <a className="a-header" href="/experience">My Experience</a>
-          <a className="a-header" href="/">Home</a>
+          <a className="a-header" href="/Rohan-Koduri-website/contact">Contact Me</a>
+          <a className="a-header" href="/Rohan-Koduri-website/about">About Me</a>
+          <a className="a-header" href="/Rohan-Koduri-website/experience">My Experience</a>
+          <a className="a-header" href="/Rohan-Koduri-website">Home</a>
 
         </div>
       </div>
