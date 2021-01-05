@@ -20,7 +20,7 @@ function Home() {
               I am Rohan Koduri, a 2019 graduate from the School of Engineering and Applied Science within the University of Virginia with a B.S. in Computer Science and Minor in Business. Ever since, I have been working as a Software Developer. 
               However, I've managed to find time for other things. I've been to 29 countries in my short life, each of which has taught me so much about myself and other cultures.
             </div>
-            <a style={{marginTop:"35px"}} href="/about" class="button">MORE ABOUT ROHAN > </a>        
+            <a style={{marginTop:"35px"}} href="/Rohan-Koduri-website/about" class="button">MORE ABOUT ROHAN > </a>        
         </div>
       
         <div className = "My-Experience">
@@ -30,7 +30,7 @@ function Home() {
               Both inside and now outside the classroom, I've had the opportunity to work with so many interesting technologies. In the past year alone, I've learned so much
               through my involvement in the <strong>Patent Pending</strong> <a href="https://uspto.report/TM/90038838" rel="noopener noreferrer" target="_blank">Secure Data Fabric®</a>, volunteering as a developer for <a rel="noopener noreferrer" target='_blank' href='https://excesstoneeds.org/'>Excess to Needs</a>, and especially coaching youth soccer.
             </div>
-            <a style={{marginTop:"35px"}} href="/experience" class="button">READ MORE ></a> 
+            <a style={{marginTop:"35px"}} href="/Rohan-Koduri-website/experience" class="button">READ MORE ></a> 
         </div>
 
         <div className = "Contact-me">
@@ -39,7 +39,7 @@ function Home() {
             <div style={{ fontSize:"14px", marginRight: "12px", marginLeft: "12px", marginTop:"55px"}}> 
               Let's chat. Click below to find out how to contact me.  
             </div>
-            <a style={{marginTop:"55px"}} href="/contact" class="button">CONTACT ME ></a> 
+            <a style={{marginTop:"55px"}} href="/Rohan-Koduri-website/contact" class="button">CONTACT ME ></a> 
         </div>
 
       </div>
