@@ -39,7 +39,7 @@ function App() {
               <Route path="/Rohan-Koduri-website/experience" component={Experience} />
               <Route
                 component={() => {
-                  return <Redirect to="/Rohan-Koduri-website/" />;
+                  return <Redirect to="/" />;
                 }}
               />
           </Switch>
