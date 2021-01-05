@@ -31,7 +31,7 @@ function App() {
         </div>
       </div>
       <div className='App-body'> 
-      <Router>
+      <Router basename="/Rohan-Koduri-website">
         <Switch>
               <Route path="/" exact component={Home}/>
               <Route path="/about" component={About} />
