@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Rohan-Koduri-website/precache-manifest.82382d7211eac7db551d3d00135c95bb.js"
+  "/Rohan-Koduri-website/precache-manifest.025b414bb1f48a7bdc2182dd1ea94198.js"
 );
 
 self.addEventListener('message', (event) => {
