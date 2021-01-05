@@ -33,13 +33,13 @@ function App() {
       <div className='App-body'> 
       <Router basename="/Rohan-Koduri-website">
         <Switch>
-              <Route path="/Rohan-Koduri-website" exact component={Home}/>
+              <Route path="/Rohan-Koduri-website/" exact component={Home}/>
               <Route path="/Rohan-Koduri-website/about" component={About} />
               <Route path="/Rohan-Koduri-website/contact" component={Contact} />
               <Route path="/Rohan-Koduri-website/experience" component={Experience} />
               <Route
                 component={() => {
-                  return <Redirect to="/" />;
+                  return <Redirect to="/Rohan-Koduri-website/" />;
                 }}
               />
           </Switch>
